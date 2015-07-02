@@ -1,0 +1,1 @@
+{:@correct_guess=>"dreeo", :@used_letters=>"dreo", :@word=>"derogative", :@display=>"dero_____e", :@guess=>"0"}
